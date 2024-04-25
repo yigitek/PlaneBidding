@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RNhdu4cBJ/XVO5BUnwdvPrapyQtDts0xRKxxXK/Fm/ZQ/pmRp/IPiW2A1hYo68Tj7CODrP1a2kpg5RaEIELcVg==",
+  "dgSpecHash": "HfQVYyEBnyTinX1u5p4uZeMHSD+v4IUUvcVi1SGZwNSn1vJjMA/YNxa5GGo2Mr4HpjcZXP49wwhDgf1ttoD5uQ==",
   "success": true,
-  "projectFilePath": "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\biddingservice\\BiddingService.csproj",
+  "projectFilePath": "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\BiddingService\\BiddingService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yigit\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\yigit\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

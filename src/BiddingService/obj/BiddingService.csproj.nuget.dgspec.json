@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\biddingservice\\BiddingService.csproj": {}
+    "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\BiddingService\\BiddingService.csproj": {}
   },
   "projects": {
-    "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\biddingservice\\BiddingService.csproj": {
+    "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\BiddingService\\BiddingService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\biddingservice\\BiddingService.csproj",
+        "projectUniqueName": "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\BiddingService\\BiddingService.csproj",
         "projectName": "BiddingService",
-        "projectPath": "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\biddingservice\\BiddingService.csproj",
+        "projectPath": "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\BiddingService\\BiddingService.csproj",
         "packagesPath": "C:\\Users\\yigit\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\biddingservice\\obj\\",
+        "outputPath": "D:\\repos\\thesisproject\\demo\\PlaneBidding\\src\\BiddingService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
