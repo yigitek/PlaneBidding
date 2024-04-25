@@ -99,3 +99,4 @@ D:\repos\thesisproject\demo\PlaneBidding\src\BiddingService\bin\Debug\net8.0\zh-
 D:\repos\thesisproject\demo\PlaneBidding\src\BiddingService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\repos\thesisproject\demo\PlaneBidding\src\BiddingService\obj\Debug\net8.0\BiddingService.csproj.AssemblyReference.cache
 D:\repos\thesisproject\demo\PlaneBidding\src\BiddingService\obj\Debug\net8.0\BiddingService.csproj.CopyComplete
+D:\repos\thesisproject\demo\PlaneBidding\src\biddingservice\obj\Debug\net8.0\BiddingService.sourcelink.json
